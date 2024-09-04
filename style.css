@@ -1,0 +1,26 @@
+body{
+    color: black;
+    background: rgb(195, 243, 255);
+    font-family: "Chakra Petch", sans-serif;
+}
+header{ border-bottom: solid 2px rgb(100, 152, 248);
+font-size: xx-large;
+margin: 20px;
+}
+
+section{
+    background: rgb(191, 173, 255);
+    padding: 50px;
+}
+ iframe{
+margin: 5px;
+ }  
+ h1{
+    font-size: 35px;
+ }
+img{
+    height: 200px;
+}
+h3{ color: rgb(59, 59, 245);
+font-size: 20px;
+}
